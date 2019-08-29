@@ -1,6 +1,6 @@
 FROM nginx:1.15.8-alpine
 
-LABEL company=“AndroidPager Inc."
+LABEL company=“AndroidPager"
 
 LABEL version="1.0.0"
 
